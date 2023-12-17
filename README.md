@@ -1,0 +1,1 @@
+This project contains all the file that is used to build the simon says game.
